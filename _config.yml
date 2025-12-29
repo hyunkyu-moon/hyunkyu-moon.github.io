@@ -1,0 +1,22 @@
+# 테마 설정 (Minimal Mistakes 원격 테마 사용)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # "air", "aqua", "dark" 등으로 나중에 바꿀 수 있습니다.
+
+# 내 사이트 정보
+title: "Hyunkyu Moon's Site"
+locale: "ko-KR"
+
+# 사이드바 프로필 활성화
+author:
+  name   : "문현규 (Hyunkyu Moon)"
+  bio    : "여기에 자기소개 한 줄을 적으세요."
+  location: "Seoul, South Korea"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyunkyu-moon"
+
+# 빌드 설정 (GitHub Pages를 위한 필수 설정)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
