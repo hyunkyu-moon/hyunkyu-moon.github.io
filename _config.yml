@@ -16,7 +16,7 @@ navigation:
 # 사이드바 프로필 활성화
 author:
   name   : "문현규 (Hyunkyu Moon)"
-  avatar : "/assets/images/profile.jpg" # 사진 올릴 경로
+  avatar : "/assets/images/Hyunkyu Moon 사진.jpg" # 사진 올릴 경로
   bio    : "한국기계연구원 Korea Institute of Machinery and Materials"
   location: "Daejeon, South Korea"
   links:
