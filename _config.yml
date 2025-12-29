@@ -10,8 +10,8 @@ locale: "ko-KR"
 
 # 메뉴 설정
 navigation:
-   - title: "Main"
-     nav: main
+  - title: "Main"
+    nav: main
 
 # 사이드바 프로필 활성화
 author:
