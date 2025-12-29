@@ -1,22 +1,46 @@
 # 테마 설정 (Minimal Mistakes 원격 테마 사용)
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default" # "air", "aqua", "dark" 등으로 나중에 바꿀 수 있습니다.
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "dark" 등으로 나중에 바꿀 수 있습니다.
 
 # 내 사이트 정보
-title: "Hyunkyu Moon's Site"
+title: "Hyunkyu Moon"
+name: "문현규"
+description: "연구 블로그"
 locale: "ko-KR"
+
+# 메뉴 설정
+navigation:
+   - title: "Main"
+     nav: main
 
 # 사이드바 프로필 활성화
 author:
   name   : "문현규 (Hyunkyu Moon)"
-  bio    : "여기에 자기소개 한 줄을 적으세요."
-  location: "Seoul, South Korea"
+  avatar : "/assets/images/profile.jpg" # 사진 올릴 경로
+  bio    : "한국기계연구원 Korea Institute of Machinery and Materials"
+  location: "Daejeon, South Korea"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hyunkyu-moon"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mhk@kimm.re.kr"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hkmoon88"
+      
 # 빌드 설정 (GitHub Pages를 위한 필수 설정)
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# 날짜별 포스트 자동 정리 활성화
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
