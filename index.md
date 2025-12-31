@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+classes: wide  # 이 줄을 추가하면 본문 영역이 더 넓어집니다.
 title: "Hyunkyu Moon, Ph.D."
 header:
   overlay_color: "#000"
