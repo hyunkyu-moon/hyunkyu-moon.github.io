@@ -11,17 +11,17 @@ header:
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:40%; padding: 15px 5px;">● <b>Ph.D.</b> in Mechanical Engineering</td>
+    <td style="width:40%; padding: 15px 5px;">● <b>Ph.D.</b><br> in Mechanical Engineering</td>
     <td style="width:45%; padding: 15px 5px;">University of Illinois at Urbana-Champaign</td>
     <td style="width:15%; padding: 15px 5px; text-align: right;">2021</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px;">● <b>M.S.</b> in Mechanical Engineering</td>
+    <td style="padding: 15px 5px;">● <b>M.S.</b><br> in Mechanical Engineering</td>
     <td style="padding: 15px 5px;">University of Illinois at Urbana-Champaign</td>
     <td style="padding: 15px 5px; text-align: right;">2015</td>
   </tr>
   <tr>
-    <td style="padding: 15px 5px;">● <b>B.S.</b> in Mechanical Engineering</td>
+    <td style="padding: 15px 5px;">● <b>B.S.</b><br> in Mechanical Engineering</td>
     <td style="padding: 15px 5px;">Hanyang University (HYU)</td>
     <td style="padding: 15px 5px; text-align: right;">2013</td>
   </tr>
