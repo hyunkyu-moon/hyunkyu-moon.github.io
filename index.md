@@ -28,6 +28,8 @@ header:
   </tr>
 </table>
 
+<div style="height: 20px;"></div>
+
 <h2>Professional Experience</h2>
 
 <table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
@@ -42,6 +44,8 @@ header:
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021 – 2023</td>
   </tr>
 </table>
+
+<div style="height: 20px;"></div>
 
 <h2>Research Interests</h2>
 
