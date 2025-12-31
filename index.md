@@ -28,7 +28,7 @@ header:
   </tr>
 </table>
 
-<div style="height: 20px;"></div>
+<div style="height: 10px;"></div>
 
 <h2>Professional Experience</h2>
 
@@ -45,7 +45,7 @@ header:
   </tr>
 </table>
 
-<div style="height: 20px;"></div>
+<div style="height: 10px;"></div>
 
 <h2>Research Interests</h2>
 
