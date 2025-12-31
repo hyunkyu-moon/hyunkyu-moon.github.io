@@ -15,9 +15,9 @@ navigation:
 
 # 사이드바 프로필 활성화
 author:
-  name   : "문현규 (Hyunkyu Moon)"
+  name   : "Hyunkyu Moon (문현규)"
   avatar : "/assets/images/profile.jpg" # 사진 올릴 경로
-  bio    : "Senior Researcher @ KIMM"
+  bio    : "Senior Researcher @ KIMM <br> Ph.D. in Mechanical Engineering"
   location: "Daejeon, South Korea"
   links:
     - label: "Email"
