@@ -23,7 +23,7 @@ header:
   </tr>
   <tr>
     <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>B.S.</b> in Mechanical Engineering</td>
-    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">Hanyang University</td>
+    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">Hanyang University, Seoul</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2013</td>
   </tr>
 </table>
@@ -43,21 +43,29 @@ header:
   </tr>
 </table>
 
-<h2 style="margin-top: 40px; margin-bottom: 5px;">Research Interests</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+<h2>Research Interests</h2>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:30%; padding: 15px 5px; vertical-align: top;">● <b>Advanced Packaging</b></td>
-    <td style="width:70%; padding: 15px 5px; vertical-align: top;">Hybrid bonding, Chiplet packaging (Bonding, Underfill, Warpage), and Temporary Bonding and De-bonding (TBDB).</td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Advanced Packaging</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">
+      Hybrid bonding (Equipment, Bonding mechanism, etc) <br> 
+      Bridge-die-based chiplet packaging (Bonding, Underfill, Warpage, etc) <br> 
+      Temporary Bonding and De-bonding (TBDB)
+    </td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px; vertical-align: top;">● <b>Thermal Management</b></td>
-    <td style="padding: 15px 5px; vertical-align: top;">Thermal management strategies for semiconductor equipments and packages, including laser diode arrays and 3D printed heat exchangers.</td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Thermal Management</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">
+      Thermal management strategies development for semiconductor equipments and packages <br>
+      (Laser diode arrays and semiconductor packages)
+    </td>
   </tr>
   <tr>
-    <td style="padding: 15px 5px; vertical-align: top;">● <b>Planarization</b></td>
-    <td style="padding: 15px 5px; vertical-align: top;">Chemical-mechanical planarization (CMP) process optimization and development for advanced semiconductor nodes.</td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Planarization</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">
+      Chemical-mechanical planarization (CMP) process optimization and applications
+    </td>
   </tr>
 </table>
 
