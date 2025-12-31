@@ -49,21 +49,21 @@ header:
   <tr style="border-bottom: 1px solid #eee;">
     <td style="padding: 15px 45px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Advanced Packaging</b></td>
     <td style="padding: 15px 5px; vertical-align: top;">
-      Hybrid bonding (Equipment, Bonding mechanism, etc) <br> 
-      Bridge-die-based chiplet packaging (Bonding, Underfill, Warpage, etc) <br> 
-      Temporary Bonding and De-bonding (TBDB)
+      - Hybrid bonding (Equipment, Bonding mechanism, etc) <br> 
+      - Bridge-die-based chiplet packaging (Bonding, Underfill, Warpage, etc) <br> 
+      - Temporary Bonding and De-bonding (TBDB)
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
     <td style="padding: 15px 45px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Thermal Management</b></td>
     <td style="padding: 15px 5px; vertical-align: top;">
-      Thermal management strategies development for semiconductor equipments and packages (Laser diode arrays and semiconductor packages)
+      - Thermal management strategies development for semiconductor equipments and packages (Laser diode arrays and semiconductor packages)
     </td>
   </tr>
   <tr>
     <td style="padding: 15px 45px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Planarization</b></td>
     <td style="padding: 15px 5px; vertical-align: top;">
-      Chemical-mechanical planarization (CMP) process optimization and applications
+      - Chemical-mechanical planarization (CMP) process optimization and applications
     </td>
   </tr>
 </table>
