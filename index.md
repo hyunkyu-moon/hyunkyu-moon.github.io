@@ -9,6 +9,47 @@ header:
 ---
 ## Education
 
+<table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="width:40%; padding: 15px 5px;">● <b>Ph.D.</b> in Mechanical Engineering [cite: 8, 29]</td>
+    <td style="width:45%; padding: 15px 5px;">University of Illinois at Urbana-Champaign [cite: 6, 8]</td>
+    <td style="width:15%; padding: 15px 5px; text-align: right;">2021 [cite: 29]</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="padding: 15px 5px;">● <b>M.S.</b> in Mechanical Engineering [cite: 14, 30]</td>
+    <td style="padding: 15px 5px;">University of Illinois at Urbana-Champaign [cite: 12, 14]</td>
+    <td style="padding: 15px 5px; text-align: right;">2015 [cite: 30]</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="padding: 15px 5px;">● <b>B.S.</b> in Mechanical Engineering [cite: 20, 31]</td>
+    <td style="padding: 15px 5px;">Hanyang University (HYU) [cite: 18, 20]</td>
+    <td style="padding: 15px 5px; text-align: right;">2013 [cite: 31]</td>
+  </tr>
+</table>
+
+## Professional Experience
+
+<table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="width:40%; padding: 15px 5px;">● <b>Senior Researcher</b> [cite: 22, 32]</td>
+    <td style="width:45%; padding: 15px 5px;">Korea Institute of Machinery & Materials (KIMM) [cite: 1, 22]</td>
+    <td style="width:15%; padding: 15px 5px; text-align: right;">2023 – Pres. [cite: 32]</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="padding: 15px 5px;">● <b>Staff Engineer</b> [cite: 24, 33]</td>
+    <td style="padding: 15px 5px;">Samsung Electronics, Semiconductor R&D Center [cite: 24]</td>
+    <td style="padding: 15px 5px; text-align: right;">2021 – 2023 [cite: 33]</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="padding: 15px 5px;">● <b>Research Assistant</b> [cite: 26, 34]</td>
+    <td style="padding: 15px 5px;">University of Illinois at Urbana-Champaign (UIUC) [cite: 26]</td>
+    <td style="padding: 15px 5px; text-align: right;">2013 – 2021 [cite: 34]</td>
+  </tr>
+</table>
+
+
+## Education
+
 | | | |
 | :--- | :--- | :---: |
 | **Ph.D.** in Mechanical Engineering | University of Illinois at Urbana-Champaign | 2021 |
