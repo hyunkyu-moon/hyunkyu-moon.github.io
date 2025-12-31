@@ -30,15 +30,15 @@ header:
 
 <h2>Professional Experience</h2>
 
-<table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
+<table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:40%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Senior Researcher</b></td>
-    <td style="width:50%; padding: 15px 15px; vertical-align: top;">Korea Institute of Machinery & Materials (KIMM)</td>
-    <td style="width:10%; padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2023 – Pres.</td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Senior Researcher</b></td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">Korea Institute of Machinery & Materials (KIMM)</td>
+    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2023 – Pres.</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Staff Engineer</b></td>
-    <td style="padding: 15px 15px; vertical-align: top;">Samsung Electronics, Semiconductor R&D Center</td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Staff Engineer</b></td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">Samsung Electronics, Semiconductor R&D Center</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021 – 2023</td>
   </tr>
 </table>
