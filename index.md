@@ -71,8 +71,3 @@ header:
     </td>
   </tr>
 </table>
-
-## Research Interests
-- **Advanced Semiconductor Packaging**: Hybrid bonding (Equipment, Bonding mechanism, etc), Bridge-die-based chiplet packaging (Bonding, Underfill, Warpage, etc), Temporary Bonding and De-bonding (TBDB)
-- **Thermal Management & Design Optimization**: Thermal management strategies for semiconductor equipments and packages (Laser diode arrays and semiconductor packages)
-- **Planarization**: Chemical-mechanical planarization (CMP) process optimization and applications
