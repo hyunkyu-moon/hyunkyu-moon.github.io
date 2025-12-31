@@ -8,7 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80
 ---
-<h2 style="margin-top: -20px;">Education</h2>
+<h2 style="margin-bottom: 5px;">Education</h2>
+<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
@@ -23,25 +24,10 @@ header:
   </tr>
   <tr>
     <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>B.S.</b> in Mechanical Engineering</td>
-    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">Hanyang University (HYU)</td>
+    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">Hanyang University</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2013</td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
 
 <h2>Professional Experience</h2>
 
