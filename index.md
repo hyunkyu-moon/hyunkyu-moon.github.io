@@ -8,43 +8,38 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80
 ---
-## Education
+<h2 style="margin-top: -30px;">Education</h2>
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:40%; padding: 15px 5px;">● <b>Ph.D.</b><br> in Mechanical Engineering</td>
-    <td style="width:45%; padding: 15px 5px;">University of Illinois at Urbana-Champaign</td>
-    <td style="width:15%; padding: 15px 5px; text-align: right;">2021</td>
+    <td style="width:22%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Ph.D.</b> in Mechanical Engineering</td>
+    <td style="width:56%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
+    <td style="width:22%; padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px;">● <b>M.S.</b><br> in Mechanical Engineering</td>
-    <td style="padding: 15px 5px;">University of Illinois at Urbana-Champaign</td>
-    <td style="padding: 15px 5px; text-align: right;">2015</td>
+    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>M.S.</b> in Mechanical Engineering</td>
+    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
+    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2015</td>
   </tr>
   <tr>
-    <td style="padding: 15px 5px;">● <b>B.S.</b><br> in Mechanical Engineering</td>
-    <td style="padding: 15px 5px;">Hanyang University (HYU)</td>
-    <td style="padding: 15px 5px; text-align: right;">2013</td>
+    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>B.S.</b> in Mechanical Engineering</td>
+    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">Hanyang University (HYU)</td>
+    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2013</td>
   </tr>
 </table>
 
-## Professional Experience
+<h2>Professional Experience</h2>
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:25%; padding: 15px 5px; vertical-align: top;">● <b>Senior Researcher</b></td>
-    <td style="width:50%; padding: 15px 5px; vertical-align: top;">Korea Institute of Machinery & Materials (KIMM)</td>
-    <td style="width:25%; padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2023 – Pres.</td>
+    <td style="width:22%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Senior Researcher</b></td>
+    <td style="width:56%; padding: 15px 5px; vertical-align: top;">Korea Institute of Machinery & Materials (KIMM)</td>
+    <td style="width:22%; padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2023 – Pres.</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px; vertical-align: top;">● <b>Staff Engineer</b></td>
+    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Staff Engineer</b></td>
     <td style="padding: 15px 5px; vertical-align: top;">Samsung Electronics, Semiconductor R&D Center</td>
-    <td style="padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2021 – 2023</td>
-  </tr>
-  <tr>
-    <td style="padding: 15px 5px; vertical-align: top;">● <b>Research Assistant</b></td>
-    <td style="padding: 15px 5px; vertical-align: top;">University of Illinois at Urbana-Champaign (UIUC)</td>
-    <td style="padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2013 – 2021</td>
+    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021 – 2023</td>
   </tr>
 </table>
 
