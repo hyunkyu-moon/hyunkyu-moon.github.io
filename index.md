@@ -9,6 +9,22 @@ header:
 ---
 ## Education
 
+| | | |
+| :--- | :--- | :---: |
+| **Ph.D.** in Mechanical Engineering | University of Illinois at Urbana-Champaign | 2021 |
+| **M.S.** in Mechanical Engineering | University of Illinois at Urbana-Champaign | 2015 |
+| **B.S.** in Mechanical Engineering | Hanyang University (HYU) | 2013 |
+
+## Professional Experience
+
+| | | |
+| :--- | :--- | :---: |
+| **Senior Researcher** | Korea Institute of Machinery & Materials (KIMM) | 2023 – Pres. |
+| **Staff Engineer** | Samsung Electronics, Semiconductor R&D Center | 2021 – 2023 |
+| **Research Assistant** | University of Illinois at Urbana-Champaign (UIUC) | 2013 – 2021 |
+
+## Education
+
 | Degree | Institution | Year |
 | :--- | :--- | :---: |
 | **Ph.D.** in Mechanical Engineering | University of Illinois at Urbana-Champaign | 2021 |
