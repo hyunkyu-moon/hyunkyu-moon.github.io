@@ -1,66 +1,46 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 classes: wide
 ---
 
-<h2 style="border-bottom: none; margin-bottom: 5px;">Journal Articles</h2>
+<h2 style="border-bottom: none; margin-bottom: 5px;">Advanced Semiconductor Packaging</h2>
 <hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+
+이 연구 분야에서는 차세대 반도체의 성능 한계를 극복하기 위한 고집적 패키징 솔루션을 다룹니다. 
 
 <table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 80px 15px 5px; vertical-align: top;">● <b>Joule</b></td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Hybrid Bonding</b></td>
     <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      "Ultra-power-dense heat exchanger development through genetic algorithm design and additive manufacturing"<br>
-      <b>H. Moon</b>, D. J. McGregor, N. Miljkovic, and W. P. King<br>
-      <i>Joule 5 (2021), 1-12. (Impact Factor 41.25)</i>
+      - 연구 내용 설명: 하이브리드 본딩 장비 및 공정 메커니즘 분석  <br>
+      - 세부 기술: Cu-to-Cu bonding, Die-to-Wafer bonding 등 
     </td>
-    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 80px 15px 5px; vertical-align: top;">● <b>Scientific Reports</b></td>
-    <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      "Optimization of process parameters in micro-scale pneumatic aerosol jet printing for high-yield precise electrodes"<br>
-      H. Jeong, J. H. Lee, S. Kim, S. Han, <b>H. Moon</b>, J. Y. Song, and A. Y. Park<br>
-      <i>Scientific Reports 13(1) (2023), 21297. (Impact Factor 4.6)</i>
-    </td>
-    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2023</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 80px 15px 5px; vertical-align: top;">● <b>IJHMT</b></td>
-    <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      "Heat Transfer Enhancement of Single-Phase Internal Flows using Shape Optimization and Additively Manufactured Flow Structures"<br>
-      <b>H. Moon</b>, K. Boyina, N. Miljkovic, and W. P. King<br>
-      <i>International Journal of Heat and Mass Transfer 177 (2021), 121510.</i>
-    </td>
-    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021</td>
   </tr>
   <tr>
-    <td style="padding: 15px 80px 15px 5px; vertical-align: top;">● <b>IJHMT</b></td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Chiplet Packaging</b></td>
     <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      "High power density thermal energy storage using additively manufactured heat exchangers and phase change material"<br>
-      <b>H. Moon</b>, N. Miljkovic, and W. P. King<br>
-      <i>International Journal of Heat and Mass Transfer 153 (2020), 119591.</i>
+      - Bridge-die 기반의 칩렛 패키징 최적화  <br>
+      - Underfill 유동 해석 및 Warpage(휘어짐) 제어 연구 
     </td>
-    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2020</td>
   </tr>
 </table>
 
-<div style="height: 40px;"></div>
+<div style="height: 30px;"></div>
 
-<h2 style="border-bottom: none; margin-bottom: 5px;">Conference Proceedings</h2>
+<h2 style="border-bottom: none; margin-bottom: 5px;">Thermal Management & Design Optimization</h2>
 <hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+
+고출력 반도체 장비의 발열 문제를 해결하기 위한 혁신적인 열설계 기술을 연구합니다. 
 
 <table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr>
-    <td style="padding: 15px 80px 15px 5px; vertical-align: top;">● <b>TRANSDUCERS</b></td>
+    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Heat Exchanger</b></td>
     <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      "Microscale transport physics during atomic force microscopy mass spectrometry and improved sampling efficiency"<br>
-      <b>H. Moon</b>, T. J. Comi, S. J. Dunham, B. Kwon, J. V. Sweedler, and W. P. King<br>
-      <i>2017 19th International Conference on Solid-State Sensors, Actuators and Microsystems.</i>
+      - 적층 제조(3D Printing)를 활용한 초고효율 열교환기 설계  <br>
+      - 유전 알고리즘(Genetic Algorithm)을 이용한 형상 최적화 
     </td>
-    <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2017</td>
   </tr>
 </table>
