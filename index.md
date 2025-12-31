@@ -31,19 +31,19 @@ header:
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="width:40%; padding: 15px 5px;">● <b>Senior Researcher</b></td>
-    <td style="width:45%; padding: 15px 5px;">Korea Institute of Machinery & Materials (KIMM)</td>
-    <td style="width:15%; padding: 15px 5px; text-align: right;">2023 – Pres.</td>
+    <td style="width:25%; padding: 15px 5px; vertical-align: top;">● <b>Senior Researcher</b></td>
+    <td style="width:50%; padding: 15px 5px; vertical-align: top;">Korea Institute of Machinery & Materials (KIMM)</td>
+    <td style="width:25%; padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2023 – Pres.</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 5px;">● <b>Staff Engineer</b></td>
-    <td style="padding: 15px 5px;">Samsung Electronics, Semiconductor R&D Center</td>
-    <td style="padding: 15px 5px; text-align: right;">2021 – 2023</td>
+    <td style="padding: 15px 5px; vertical-align: top;">● <b>Staff Engineer</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">Samsung Electronics, Semiconductor R&D Center</td>
+    <td style="padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2021 – 2023</td>
   </tr>
   <tr>
-    <td style="padding: 15px 5px;">● <b>Research Assistant</b></td>
-    <td style="padding: 15px 5px;">University of Illinois at Urbana-Champaign (UIUC)</td>
-    <td style="padding: 15px 5px; text-align: right;">2013 – 2021</td>
+    <td style="padding: 15px 5px; vertical-align: top;">● <b>Research Assistant</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">University of Illinois at Urbana-Champaign (UIUC)</td>
+    <td style="padding: 15px 5px; text-align: right; vertical-align: top; white-space: nowrap;">2013 – 2021</td>
   </tr>
 </table>
 
