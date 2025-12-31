@@ -13,7 +13,7 @@ header:
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
     <td style="width:40%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Ph.D.</b> in Mechanical Engineering</td>
-    <td style="width:50%; padding: 15px 5px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
+    <td style="width:50%; padding: 15px 15px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
     <td style="width:10%; padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021</td>
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
