@@ -8,8 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80
 ---
-<h2 style="margin-bottom: 5px;">Education</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+<h2 style="margin-top: -20px;">Education</h2>
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
@@ -41,6 +40,24 @@ header:
     <td style="padding: 15px 50px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Staff Engineer</b></td>
     <td style="padding: 15px 50px 15px 5px; white-space: nowrap; vertical-align: top;">Samsung Electronics, Semiconductor R&D Center</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2021 – 2023</td>
+  </tr>
+</table>
+
+<h2 style="margin-top: 40px; margin-bottom: 5px;">Research Interests</h2>
+<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="width:30%; padding: 15px 5px; vertical-align: top;">● <b>Advanced Packaging</b></td>
+    <td style="width:70%; padding: 15px 5px; vertical-align: top;">Hybrid bonding, Chiplet packaging (Bonding, Underfill, Warpage), and Temporary Bonding and De-bonding (TBDB).</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #eee;">
+    <td style="padding: 15px 5px; vertical-align: top;">● <b>Thermal Management</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">Thermal management strategies for semiconductor equipments and packages, including laser diode arrays and 3D printed heat exchangers.</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 5px; vertical-align: top;">● <b>Planarization</b></td>
+    <td style="padding: 15px 5px; vertical-align: top;">Chemical-mechanical planarization (CMP) process optimization and development for advanced semiconductor nodes.</td>
   </tr>
 </table>
 
