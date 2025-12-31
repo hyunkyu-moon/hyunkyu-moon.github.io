@@ -18,12 +18,12 @@ header:
   </tr>
   <tr style="border-bottom: 1px solid #eee;">
     <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>M.S.</b> in Mechanical Engineering</td>
-    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
+    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">University of Illinois at Urbana-Champaign</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2015</td>
   </tr>
   <tr>
     <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">● <b>B.S.</b> in Mechanical Engineering</td>
-    <td style="padding: 15px 5px; white-space: nowrap; vertical-align: top;">Hanyang University (HYU)</td>
+    <td style="padding: 15px 15px; white-space: nowrap; vertical-align: top;">Hanyang University (HYU)</td>
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2013</td>
   </tr>
 </table>
