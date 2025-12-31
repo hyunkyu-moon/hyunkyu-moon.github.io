@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80
 ---
-<h2 style="margin-top: -30px;">Education</h2>
+<h2 style="margin-top: -20px;">Education</h2>
 
 <table style="width:100%; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border-bottom: 1px solid #eee;">
@@ -27,6 +27,9 @@ header:
     <td style="padding: 15px 5px; text-align: right; white-space: nowrap; vertical-align: top;">2013</td>
   </tr>
 </table>
+
+<br>
+<br>
 
 <h2>Professional Experience</h2>
 
