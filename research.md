@@ -11,18 +11,28 @@ classes: wide
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px;">(1) Hybrid Bonding</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
-    <img src="/assets/images/Image1.png" alt="Hybrid Bonder Equipment" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
-  </figure>
+<div style="display: flex; flex-wrap: wrap; gap: 25px; margin-bottom: 40px;">
   
-  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
-    <img src="/assets/images/Image2.jpg" alt="Hybrid Bonding Process" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
+                background-color: white; /* 이미지 배경색 보호 */
+                border-radius: 12px;     /* 모서리 둥글게 */
+                overflow: hidden;        /* 둥근 모서리 밖으로 이미지 안나가게 */
+                box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* 은은한 그림자 */
+                border: 1px solid #eee;">
+    <img src="/assets/images/Image1.png" alt="Research Image" 
+         style="width: 100%; height: auto; display: block;
+                mix-blend-mode: multiply; /* 흰색 배경을 자연스럽게 제거 */
+                opacity: 0.95;">          /* 배경과 톤 맞춤 */
   </figure>
-  
-  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
-    <img src="/assets/images/Image3.jpg" alt="SEM Image of Bonded Interface" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
+                background-color: white; border-radius: 12px; 
+                overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+                border: 1px solid #eee;">
+    <img src="/assets/images/Image2.jpg" alt="Research Image" 
+         style="width: 100%; height: auto; display: block; mix-blend-mode: multiply;">
   </figure>
+
 </div>
 
 <ul style="margin-top: 20px; line-height: 1.6; padding-left: 20px;">
