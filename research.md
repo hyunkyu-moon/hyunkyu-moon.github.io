@@ -13,7 +13,7 @@ classes: wide
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
   <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
-    <img src="/assets/images/Image1.jpg" alt="Hybrid Bonder Equipment" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+    <img src="/assets/images/Image1.png" alt="Hybrid Bonder Equipment" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
   </figure>
   
   <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
