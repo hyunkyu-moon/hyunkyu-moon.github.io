@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "dark" 등으로 나중에 바꿀 수 있습니다.
 
 # 내 사이트 정보
-title: "Portfolio"
+title: "Home"
 name: "문현규"
 description: "연구 블로그"
 locale: "ko-KR"
