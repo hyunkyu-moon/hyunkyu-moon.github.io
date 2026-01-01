@@ -6,8 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<h2 style="border-bottom: none; margin-bottom: 5px;">Advanced Semiconductor Packaging</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+<h2>Advanced Semiconductor Packaging</h2>
 
 이 연구 분야에서는 차세대 반도체의 성능 한계를 극복하기 위한 고집적 패키징 솔루션을 다룹니다. 
 
