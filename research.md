@@ -11,26 +11,36 @@ classes: wide
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px;">(1) Hybrid Bonding</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
   
   <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
-                background-color: transparent; /* 1. 배경을 투명하게 변경 */
-                border: none;                  /* 2. 테두리 제거 */
-                box-shadow: none;              /* 3. 그림자 제거 (선택 사항) */
-                overflow: hidden;">
+                border: 1.5px solid #000000; /* 1. 까만색 선 추가 */
+                border-radius: 15px;        /* 2. 테두리 모서리 둥글게 */
+                overflow: hidden;           /* 3. 내부 이미지가 튀어나오지 않게 절단 */
+                background-color: #ffffff;  /* 4. 내부를 흰색으로 채워 깔끔하게 유지 */
+                box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
     <img src="/assets/images/Image1.png" alt="Research Image" 
-         style="width: 100%; height: auto; display: block;
-                mix-blend-mode: multiply;      /* 이제 홈페이지 배경과 직접 섞입니다 */
-                filter: contrast(1.1);         /* 4. 대비를 살짝 주면 더 깔끔합니다 */">
-    <figcaption style="text-align: center; font-size: 0.8em; margin-top: 10px; font-weight: bold;">
-      Ultra-Clean Internal Flow Design
-    </figcaption>
+         style="width: 100%; height: auto; display: block;">
   </figure>
 
   <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
-                background-color: transparent; border: none; box-shadow: none;">
+                border: 1.5px solid #000000; 
+                border-radius: 15px; 
+                overflow: hidden; 
+                background-color: #ffffff;
+                box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
     <img src="/assets/images/Image2.jpg" alt="Research Image" 
-         style="width: 100%; height: auto; display: block; mix-blend-mode: multiply;">
+         style="width: 100%; height: auto; display: block;">
+  </figure>
+
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
+                border: 1.5px solid #000000; 
+                border-radius: 15px; 
+                overflow: hidden; 
+                background-color: #ffffff;
+                box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <img src="/assets/images/Image3.jpg" alt="Research Image" 
+         style="width: 100%; height: auto; display: block;">
   </figure>
 
 </div>
