@@ -7,30 +7,38 @@ classes: wide
 ---
 
 <h2>Advanced Semiconductor Packaging</h2>
+<p style="margin-bottom: 30px;">Investigating high-density packaging solutions to push the performance boundaries of next-generation semiconductors.</p>
 
-이 연구 분야에서는 차세대 반도체의 성능 한계를 극복하기 위한 고집적 패키징 솔루션을 다룹니다. 
+<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px;">(1) Hybrid Bonding</h3>
 
-<table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
-  <tr style="border-bottom: 1px solid #eee;">
-    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Hybrid Bonding</b></td>
-    <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      - 연구 내용 설명: 하이브리드 본딩 장비 및 공정 메커니즘 분석  <br>
-      - 세부 기술: Cu-to-Cu bonding, Die-to-Wafer bonding 등 
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 15px 80px 15px 5px; white-space: nowrap; vertical-align: top;">● <b>Chiplet Packaging</b></td>
-    <td style="padding: 15px 5px; vertical-align: top; line-height: 1.6;">
-      - Bridge-die 기반의 칩렛 패키징 최적화  <br>
-      - Underfill 유동 해석 및 Warpage(휘어짐) 제어 연구 
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
+    <img src="/assets/images/Image1.jpg" alt="Hybrid Bonder Equipment" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+  </figure>
+  
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
+    <img src="/assets/images/Image2.jpg" alt="Hybrid Bonding Process" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+  </figure>
+  
+  <figure style="flex: 1 1 30%; max-width: 400px; margin: 0;">
+    <img src="/assets/images/Image3.jpg" alt="SEM Image of Bonded Interface" style="width: 100%; height: auto; border-radius: 5px; border: 1px solid #eee;">
+  </figure>
+</div>
 
+<ul style="margin-top: 20px; line-height: 1.6; padding-left: 20px;">
+  <li style="margin-bottom: 10px;"><b>Hybrid Bonder Equipment Development</b>
+    <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
+      <li>- TBD (To Be Determined)</li>
+    </ul>
+  </li>
+  <li><b>Hybrid Bonding Mechanism</b>
+    </li>
+</ul>
+
+<div style="height: 50px;"></div>
 <div style="height: 30px;"></div>
 
-<h2 style="border-bottom: none; margin-bottom: 5px;">Thermal Management & Design Optimization</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+<h2">Thermal Management & Design Optimization</h2>
 
 고출력 반도체 장비의 발열 문제를 해결하기 위한 혁신적인 열설계 기술을 연구합니다. 
 
