@@ -19,7 +19,7 @@ classes: wide
                 overflow: hidden;           /* 3. 내부 이미지가 튀어나오지 않게 절단 */
                 background-color: #ffffff;  /* 4. 내부를 흰색으로 채워 깔끔하게 유지 */
                 box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    <img src="/assets/images/Image1.jpg" alt="Research Image" 
+    <img src="/assets/images/research/Image1.jpg" alt="Research Image" 
          style="width: 100%; height: auto; display: block;">
   </figure>
 
@@ -29,7 +29,7 @@ classes: wide
                 overflow: hidden; 
                 background-color: #ffffff;
                 box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    <img src="/assets/images/Image2.jpg" alt="Research Image" 
+    <img src="/assets/images/research/Image2.png" alt="Research Image" 
          style="width: 100%; height: auto; display: block;">
   </figure>
 
