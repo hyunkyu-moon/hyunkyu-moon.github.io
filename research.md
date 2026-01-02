@@ -46,7 +46,7 @@ classes: wide
     <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
       <li>- Surface activation and pre-treatment for hybrid bonding (하이브리드 본딩 표면 전처리 공정) </li>
       <li>- Adhesion strength characterization and enhancement for hybrid interfaces (하이브리드 본딩 계면 접착력 및 신뢰성) </li>
-    </ul></li>
+    </ul>
 </ul>
 
 <div style="height: 50px;"></div>
