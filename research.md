@@ -29,7 +29,7 @@ classes: wide
                 overflow: hidden; 
                 background-color: #ffffff; 
                 box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    <img src="/assets/images/research/Image2.png" alt="Mechanism" 
+    <img src="/assets/images/research/Image2.jpg" alt="Mechanism" 
          style="width: 100%; height: 100%; object-fit: cover; display: block;">
   </figure>
 
