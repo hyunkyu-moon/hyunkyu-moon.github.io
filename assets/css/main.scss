@@ -1,86 +1,40 @@
 ---
-# 이 대시 세 줄이 반드시 있어야 Jekyll이 이 파일을 컴파일합니다.
+# 이 대시 세 줄 위에 어떤 텍스트나 주석도 있으면 안 됩니다.
 ---
 
-/* 1. 변수 선언 */
-$base-font-size: 16px;
-$background-color: #ffffff;
-$site-sidebar-bg-color: #ffffff;
-
-/* 2. 테마 임포트 */
+/* 1. 테마 임포트 */
 @import "minimal-mistakes";
 
-/* 3. 커스텀 스타일 및 강제 적용 */
-body {
+/* 2. 강력 강제 적용 (Body만으로는 부족할 수 있습니다) */
+html, body, p, li, div, span, a {
+  font-size: 16px !important;
   background-color: #ffffff !important;
-  font-size: 16px !important; /* 전체 글자 크기 14px */
 }
 
+/* 3. 제목 크기도 그에 맞춰 비율 조정 */
+h1 { font-size: 2.0em !important; }
+h2 { font-size: 1.6em !important; }
+h3 { font-size: 1.3em !important; }
+h4 { font-size: 1.1em !important; }
+
+/* 4. 사이드바 및 레이아웃 배경색 화이트 강제 */
 #main, 
 .page, 
 .masthead, 
 .sidebar, 
 .page__content, 
 .page__footer, 
-.initial-content {
-  background-color: #ffffff !important;
-}
-
-/* 베이지색 띠가 생기는 영역 원천 차단 */
+.initial-content,
 .page__inner-wrap {
   background-color: #ffffff !important;
 }
 
-/* --- Research Tab 전용 스타일 --- */
-.research-container {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  margin-top: 20px;
-}
-
-.research-item {
-  display: flex;
-  gap: 20px;
-  border-bottom: 1px solid #f2f2f2;
-  padding-bottom: 20px;
-  align-items: flex-start;
-}
-
-.research-image {
-  width: 200px; /* 이미지 너비 조절 */
-  flex-shrink: 0;
-}
-
-.research-image img {
-  width: 100%;
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-}
-
-.research-content {
-  flex-grow: 1;
-}
-
+/* --- Research Tab 전용 (기존 유지) --- */
 .research-content h3 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  color: #333;
-  font-size: 18px; /* 제목은 가독성을 위해 본문보다 조금 크게 설정 */
+  font-size: 18px !important; /* 위에서 정한 h3보다 우선 적용 */
 }
-
 .research-content p {
-  margin: 0;
+  font-size: 16px !important;
   line-height: 1.6;
   color: #666;
-}
-
-/* 모바일 대응 (화면이 작아지면 위아래로 배치) */
-@media (max-width: 600px) {
-  .research-item {
-    flex-direction: column;
-  }
-  .research-image {
-    width: 100%;
-  }
 }
