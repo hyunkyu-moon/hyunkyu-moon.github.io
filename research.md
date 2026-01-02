@@ -52,9 +52,8 @@ classes: wide
 <div style="height: 50px;"></div>
 
 <h2>Focus 2. Thermal Management & Design Optimization</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
 
-<p>고출력 반도체 장비의 발열 문제를 해결하기 위한 혁신적인 열설계 기술을 연구합니다.</p>
+<p>Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment.</p>
 
 <table style="width: auto; border-collapse: collapse; border: none; margin-top: 10px;">
   <tr>
