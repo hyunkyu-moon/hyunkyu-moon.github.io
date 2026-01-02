@@ -60,7 +60,7 @@ classes: wide
                 overflow: hidden; 
                 background-color: #ffffff; 
                 box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    <img src="/assets/images/research/bonder/Image1.jpg" alt="Simulation" 
+    <img src="/assets/images/research/ucie/Image1-ucie.jpg" alt="Simulation" 
          style="width: 100%; height: 100%; object-fit: cover; display: block;">
   </figure>
 
@@ -70,7 +70,7 @@ classes: wide
                 overflow: hidden; 
                 background-color: #ffffff; 
                 box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    <img src="/assets/images/research/bonder/Image2.jpg" alt="Mechanism" 
+    <img src="/assets/images/research/ucie/animation-ucie.gif" alt="Mechanism Animation" 
          style="width: 100%; height: 100%; object-fit: cover; display: block;">
   </figure>
 
