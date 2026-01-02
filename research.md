@@ -13,7 +13,7 @@ classes: wide
 
 <div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: stretch;">
   
-  <figure style="flex: 1.1; margin: 0; 
+  <figure style="flex: 1.2; margin: 0; 
                 border: none; 
                 border-radius: 15px; 
                 overflow: hidden; 
@@ -23,7 +23,7 @@ classes: wide
          style="width: 100%; height: 100%; object-fit: cover; display: block;">
   </figure>
 
-  <figure style="flex: 1.7; margin: 0; 
+  <figure style="flex: 1.6; margin: 0; 
                 border: none; 
                 border-radius: 15px; 
                 overflow: hidden; 
