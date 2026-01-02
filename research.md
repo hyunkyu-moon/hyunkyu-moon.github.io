@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<h2>Advanced Semiconductor Packaging</h2>
+<h2>Focus 1. Advanced Semiconductor Packaging</h2>
 <p style="margin-bottom: 30px;">Investigating high-density packaging solutions to push the performance boundaries of next-generation semiconductors.</p>
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px;">(1) Hybrid Bonding</h3>
@@ -38,15 +38,16 @@ classes: wide
 <ul style="margin-top: 20px; line-height: 1.6; padding-left: 20px;">
   <li style="margin-bottom: 10px;"><b>Hybrid Bonder Equipment Development</b>
     <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
-      <li>- TBD (To Be Determined)</li>
-    </ul>
+      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계) </ul>
+      <li>- Bernoulli non-contact picker for semiconductor chips (반도체 칩용 비접촉식 베르누이 피커) </ul>
+      <li>- Thermal management for hybrid bonders (하이브리드 본더 내부 발열 관리) </ul>
   </li>
   <li><b>Hybrid Bonding Mechanism</b></li>
 </ul>
 
 <div style="height: 50px;"></div>
 
-<h2>Thermal Management & Design Optimization</h2>
+<h2>Focus 2. Thermal Management & Design Optimization</h2>
 <hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
 
 <p>고출력 반도체 장비의 발열 문제를 해결하기 위한 혁신적인 열설계 기술을 연구합니다.</p>
