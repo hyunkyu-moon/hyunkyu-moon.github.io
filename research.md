@@ -38,12 +38,12 @@ classes: wide
 <ul style="margin-top: 20px; line-height: 1.6; padding-left: 20px;">
   <li style="margin-bottom: 10px;"><b>Hybrid Bonder Equipment Development</b>
     <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
-      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계) </ul>
-      <li>- Bernoulli non-contact picker for semiconductor chips (반도체 칩용 비접촉식 베르누이 피커) </ul>
-      <li>- Thermal management for hybrid bonders (하이브리드 본더 내부 발열 관리) </ul>
+      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계)
+      <li>- Bernoulli non-contact picker for semiconductor chips (반도체 칩용 비접촉식 베르누이 피커)
+      <li>- Thermal management for hybrid bonders (하이브리드 본더 내부 발열 관리)</ul>
   </li>
   <li><b>Hybrid Bonding Mechanism</b></li>
-      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계) </ul>
+      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계)
 </ul>
 
 <div style="height: 50px;"></div>
