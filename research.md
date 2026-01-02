@@ -54,7 +54,7 @@ classes: wide
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px;">(2) Bridge-Die-Based Chiplet Packaging</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: stretch;">
   
-  <figure style="flex: 1.8; margin: 0; 
+  <figure style="flex: 1.9; margin: 0; 
                 border: none; 
                 border-radius: 15px; 
                 overflow: hidden; 
