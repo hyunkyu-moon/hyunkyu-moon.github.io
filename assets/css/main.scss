@@ -1,0 +1,23 @@
+---
+# Jekyll에게 이 파일이 스타일시트임을 알려주는 설정(Front Matter)입니다. 
+# 빈 줄이어도 좋으니 반드시 대시 세 개씩 두 줄이 최상단에 있어야 합니다.
+---
+
+@import "minimal-mistakes";
+
+/* 여기서부터 사용자님의 커스텀 코드를 추가합니다 */
+
+/* 1. 전체 배경을 순백색으로 지정 */
+body {
+  background-color: #ffffff !important;
+}
+
+/* 2. 본문 영역(글이 써지는 부분)의 배경도 흰색으로 지정 */
+.page {
+  background-color: #ffffff !important;
+}
+
+/* 3. 사이드바(프로필 영역) 배경색도 맞추고 싶다면 추가 */
+.sidebar {
+  background-color: #ffffff !important;
+}
