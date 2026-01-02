@@ -43,7 +43,10 @@ classes: wide
       <li>- Thermal management for hybrid bonders (하이브리드 본더 내부 발열 관리) </li>
     </ul></li>
   <li><b>Hybrid Bonding Mechanism</b></li>
-      <li>- Ultra-clean environment design for bonding equipment (초청정 내부 유동 설계)
+    <ul style="list-style-type: none; padding-left: 20px; margin-top: 5px;">
+      <li>- Surface activation and pre-treatment for hybrid bonding (하이브리드 본딩 표면 전처리 공정) </li>
+      <li>- Adhesion strength characterization and enhancement for hybrid interfaces (하이브리드 본딩 계면 접착력 및 신뢰성) </li>
+    </ul></li>
 </ul>
 
 <div style="height: 50px;"></div>
