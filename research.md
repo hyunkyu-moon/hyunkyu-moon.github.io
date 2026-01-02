@@ -14,7 +14,7 @@ classes: wide
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
   
   <figure style="flex: 1 1 30%; max-width: 400px; margin: 0; 
-                border: 1.5px solid #000000; /* 1. 까만색 선 추가 */
+                border: none; /* 1. 까만색 선 추가 */
                 border-radius: 15px;        /* 2. 테두리 모서리 둥글게 */
                 overflow: hidden;           /* 3. 내부 이미지가 튀어나오지 않게 절단 */
                 background-color: #ffffff;  /* 4. 내부를 흰색으로 채워 깔끔하게 유지 */
