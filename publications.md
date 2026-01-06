@@ -44,7 +44,6 @@ classes: wide
 <div style="height: 50px;"></div>
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Patents</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
 
 <div style="line-height: 1.8; color: #333;">
   <ol style="padding-left: 20px;">
