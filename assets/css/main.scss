@@ -55,10 +55,10 @@ h3 { font-size: 1.3em !important; }
 /* 2. 오른쪽 메뉴 (Research, Publications, Equipments, Posts) */
 /* 단순 클래스명이 아니라 전체 경로를 지정하여 우선순위를 높입니다. */
 .masthead__menu .masthead__menu-item a {
-  font-size: 1.6rem !important;  /* 글자 크기 대폭 확대 */
+  font-size: 1.4rem !important;  /* 글자 크기 대폭 확대 */
   font-weight: 700 !important;  /* 글자 두께 강조 */
-  padding-left: 20px !important; /* 글자가 커진 만큼 좌우 간격 넓힘 */
-  padding-right: 20px !important;
+  padding-left: 10px !important; /* 글자가 커진 만큼 좌우 간격 넓힘 */
+  padding-right: 10px !important;
 }
 
 /* 3. 모바일 화면에서 메뉴가 겹치지 않게 크기 자동 조절 */
