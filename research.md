@@ -67,7 +67,7 @@ classes: wide
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 2. Thermal Management & Design Optimization</h2>
 <p style="margin-bottom: 30px; color: #555;">Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment and electronic modules.</p>
 
-<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) High-Performance Heat Exchanger & Cooling Module</h3>
+<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) High-Performance Heat Exchanger & Cooling Module for Semiconductor Equipments</h3>
 
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
@@ -82,16 +82,17 @@ classes: wide
 </div>
 
 <ul style="line-height: 1.8; padding-left: 20px;">
-  <li style="margin-bottom: 15px;"><b>Additive Manufacturing (3D Printing)</b>
+  <li style="margin-bottom: 15px;"><b>High Performance Heat Exchanger and Cooling Modules</b>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Design of ultra-high efficiency heat exchangers using metal 3D printing (적층 제조를 활용한 초고효율 열교환기 설계)</li>
-      <li>High power density thermal management for laser diode arrays (고출력 레이저 다이오드 어레이를 위한 냉각 모듈 개발)</li>
+      <li>Design optimization of fluidic channels for high-performance cooling modules (냉각수 유로 설계 최적화)</li>
+      <li>Implementing high-fidelity numerical models to characterize thermal behavior in cooling modules (3차원 유한요소해석 모델)</li>
+      <li>Experimental validation and performance characterization of advanced cooling modules (냉각 모듈 실험 및 성능 검증)</li>
     </ul>
   </li>
-  <li><b>Design Optimization</b>
+  <li><b>System Prototyping and Hardware Integration</b>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Topology optimization using Genetic Algorithm for thermal systems (유전 알고리즘을 이용한 형상 및 위상 최적화 설계)</li>
-      <li>Internal manifold design for uniform flow distribution and pressure drop reduction (균일 유동 분배 및 압력 강하 저감을 위한 내부 유로 설계)</li>
+      <li>Prototyping and experimental validation of integrated laser diode array systems (모듈 및 장비 프로토타이핑)</li>
+      <li>Advanced fabrication of complex thermal structures using additive manufacturing (3D 프린팅 기술 기반 고성능 냉각 모듈 제작)</li>
     </ul>
   </li>
 </ul>
