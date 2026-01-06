@@ -13,7 +13,7 @@ classes: wide
 
 <h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) Hybrid Bonding</h3>
 
-<div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap; align-items: flex-start;">
   <figure style="flex: 1; min-width: 280px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image1.jpg"
          alt="Hybrid Bonding Simulation"
