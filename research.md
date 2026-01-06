@@ -50,53 +50,20 @@ classes: wide
 </h3>
 
 <!-- ✅ JPG + GIF를 같은 가로줄에 -->
-<div style="
-  display: flex;
-  gap: 20px;
-  margin-bottom: 25px;
-  flex-wrap: wrap;
-  align-items: flex-start;
-">
-
-  <!-- 1️⃣ JPG (안에 두 칩 그림이 같이 있는 이미지) -->
-  <figure style="
-    flex: 0 0 auto;
-    width: fit-content;
-    margin: 0;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  ">
+<div style="display:flex; gap:12px; margin-bottom:25px; flex-wrap:nowrap; align-items:flex-start;">
+  <figure style="flex:0 0 auto; width:fit-content; margin:0; border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/Image1-ucie.jpg"
          alt="Bridge-Die-Based Chiplet"
-         style="
-           height: 260px;
-           width: auto;
-           max-width: 100%;
-           display: block;
-         ">
+         style="height:210px; width:auto; display:block;">
   </figure>
 
-  <!-- 2️⃣ GIF (CFD / underfill animation) -->
-  <figure style="
-    flex: 0 0 auto;
-    width: fit-content;
-    margin: 0;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  ">
+  <figure style="flex:0 0 auto; width:fit-content; margin:0; border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/animation-ucie.gif"
          alt="Chiplet CFD Animation"
-         style="
-           height: 260px;
-           width: auto;
-           max-width: 100%;
-           display: block;
-         ">
+         style="height:210px; width:auto; display:block;">
   </figure>
-
 </div>
+
 
 
 <ul style="line-height: 1.8; padding-left: 20px;">
