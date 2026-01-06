@@ -10,12 +10,10 @@ classes: wide
 <p style="margin-bottom: 30px; color: #555;">Investigating high-density packaging solutions to push the performance boundaries of next-generation semiconductors.</p>
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) Hybrid Bonding</h3>
-
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 280px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image1.jpg" alt="Hybrid Bonding Simulation" style="width: 100%; display: block;">
   </figure>
-
   <figure style="flex: 1.4; min-width: 300px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image2.jpg" alt="Hybrid Bonding Mechanism" style="width: 100%; display: block;">
   </figure>
@@ -40,12 +38,10 @@ classes: wide
 <hr style="margin: 50px 0; border: 0; border-top: 1px solid #eee;">
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(2) Bridge-Die-Based Chiplet Packaging</h3>
-
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
   <figure style="flex: 2.0; min-width: 300px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/Image1-ucie.jpg" alt="Chiplet Simulation" style="width: 100%; display: block;">
   </figure>
-
   <figure style="flex: 0.8; min-width: 150px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/animation-ucie.gif" alt="Chiplet Mechanism Animation" style="width: 100%; display: block;">
   </figure>
@@ -69,16 +65,33 @@ classes: wide
 <div style="height: 60px;"></div>
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 2. Thermal Management & Design Optimization</h2>
-<p style="margin-bottom: 25px; color: #555;">Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment.</p>
+<p style="margin-bottom: 30px; color: #555;">Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment and electronic modules.</p>
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; border-left: 5px solid #333;">
-  <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="padding: 10px; width: 150px; vertical-align: top; font-weight: bold; color: #2c3e50;">● Heat Exchanger</td>
-      <td style="padding: 10px; line-height: 1.7; color: #444;">
-        - 적층 제조(3D Printing)를 활용한 초고효율 열교환기 설계 <br>
-        - 유전 알고리즘(Genetic Algorithm)을 이용한 형상 최적화
-      </td>
-    </tr>
-  </table>
+<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) High-Performance Heat Exchanger & Cooling Module</h3>
+
+<div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image1-thermal.jpg" alt="Laser Array Module" style="width: 100%; display: block;">
+  </figure>
+  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image2-thermal.jpg" alt="Thermal Simulation" style="width: 100%; display: block;">
+  </figure>
+  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image3-thermal.jpg" alt="Fluid Dynamics Simulation" style="width: 100%; display: block;">
+  </figure>
 </div>
+
+<ul style="line-height: 1.8; padding-left: 20px;">
+  <li style="margin-bottom: 15px;"><b>Additive Manufacturing (3D Printing)</b>
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
+      <li>Design of ultra-high efficiency heat exchangers using metal 3D printing (적층 제조를 활용한 초고효율 열교환기 설계)</li>
+      <li>High power density thermal management for laser diode arrays (고출력 레이저 다이오드 어레이를 위한 냉각 모듈 개발)</li>
+    </ul>
+  </li>
+  <li><b>Design Optimization</b>
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
+      <li>Topology optimization using Genetic Algorithm for thermal systems (유전 알고리즘을 이용한 형상 및 위상 최적화 설계)</li>
+      <li>Internal manifold design for uniform flow distribution and pressure drop reduction (균일 유동 분배 및 압력 강하 저감을 위한 내부 유로 설계)</li>
+    </ul>
+  </li>
+</ul>
