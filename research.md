@@ -20,7 +20,7 @@ classes: wide
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 ">
-    <img src="..."
+    <img src="/assets/images/research/bonder/Image1.jpg" alt="Hybrid Bonding Simulation"
      style="
        width: 100%;
        height: 100%;
