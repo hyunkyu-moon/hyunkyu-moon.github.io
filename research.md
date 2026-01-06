@@ -11,8 +11,23 @@ classes: wide
 
 <h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) Hybrid Bonding</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 280px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/bonder/Image1.jpg" alt="Hybrid Bonding Simulation" style="width: 100%; display: block;">
+  <figure style="
+  flex: 1;
+  min-width: 280px;
+  height: 260px;            /* ⭐ 핵심 */
+  margin: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+">
+    <img src="..."
+     style="
+       width: 100%;
+       height: 100%;
+       object-fit: contain;   /* ⭐ 비율 유지 */
+       display: block;
+     ">
+
   </figure>
   <figure style="flex: 1.4; min-width: 300px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image2.jpg" alt="Hybrid Bonding Mechanism" style="width: 100%; display: block;">
