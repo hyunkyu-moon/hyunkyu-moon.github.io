@@ -12,15 +12,11 @@ classes: wide
 <div style="line-height: 1.8; color: #333;">
   <ol style="padding-left: 20px;">
     <li style="margin-bottom: 20px;">
-      <b>H. Moon</b>, et al., "Advanced Semiconductor Manufacturing and Yield Optimization using Offset Correlation," <i>IEEE Transactions on Semiconductor Manufacturing</i>, (2025). 
-      [<a href="https://doi.org/10.1109/TMAT.2025.3561740" target="_blank">Link</a>]
-    </li>
-    <li style="margin-bottom: 20px;">
-      H. Jeong, S. Oh, <b>H. Moon</b>, S. Kim, S. Han, J. Y. Song, A. Y. Park, S. M. Jeon, C. W. Lee, and J. H. Lee, "Compliant Die Attach Process for High-Conformity Integration of Ultra-Thin Chips on Curved Surfaces," <i>Advanced Materials Technologies</i>, 10 (2025), e00584. 
+      H. Jeong, S. Oh, <b>H. Moon</b>, S. Kim, S. Han, J. Y. Song, A. Y. Park, S. M. Jeon, C. W. Lee, and J. H. Lee*, "Compliant Die Attach Process for High-Conformity Integration of Ultra-Thin Chips on Curved Surfaces," <i>Advanced Materials Technologies</i>, 10 (2025), e00584. 
       [<a href="https://doi.org/10.1002/admt.202500584" target="_blank">Link</a>]
     </li>
     <li style="margin-bottom: 20px;">
-      <b>H. Moon</b>, et al., "Thermomechanical Optimization of Cu-to-Cu Hybrid Bonding Process for Next-Generation Semiconductor Packaging," <i>2025 IEEE 75th Electronic Components and Technology Conference (ECTC)</i>, (2025). 
+      S. Oh; J. H. Lee; S. Kim; S. Han; A. Y. Park; <b>H. Moon</b>, "Overview of Testing Methods for Mechanical and Adhesion Properties of Materials in Semiconductor Packages," <i>IEEE Transactions on Materials for Electron Devices</i>, (2025). 
       [<a href="https://ieeexplore.ieee.org/abstract/document/10967074" target="_blank">Link</a>]
     </li>
     <li style="margin-bottom: 20px;">
