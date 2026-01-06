@@ -17,13 +17,13 @@ classes: wide
   <figure style="flex: 1; min-width: 280px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image1.jpg"
          alt="Hybrid Bonding Simulation"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 
   <figure style="flex: 1.4; min-width: 300px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/bonder/Image2.jpg"
          alt="Hybrid Bonding Mechanism"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
 
@@ -51,13 +51,13 @@ classes: wide
   <figure style="flex: 2.0; min-width: 300px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/Image1-ucie.jpg"
          alt="Chiplet Simulation"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 
   <figure style="flex: 0.8; min-width: 150px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/animation-ucie.gif"
          alt="Chiplet Mechanism Animation"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
 
@@ -90,19 +90,19 @@ classes: wide
   <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/thermal/Image1-thermal.jpg"
          alt="Laser Array Module"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 
   <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/thermal/Image2-thermal.jpg"
          alt="Thermal Simulation"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 
   <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/thermal/Image3-thermal.jpg"
          alt="Fluid Dynamics Simulation"
-         style="width: 100%; height: 100%; object-fit: cover; display: block;">
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
 
