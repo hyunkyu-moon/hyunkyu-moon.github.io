@@ -7,30 +7,23 @@ classes: wide
 ---
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 1. Advanced Semiconductor Packaging</h2>
-<p style="margin-bottom: 30px; color: #555;">Investigating high-density packaging solutions to push the performance boundaries of next-generation semiconductors.</p>
+<p style="margin-bottom: 30px; color: #555;">
+  Investigating high-density packaging solutions to push the performance boundaries of next-generation semiconductors.
+</p>
 
-<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) Hybrid Bonding</h3>
+<h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) Hybrid Bonding</h3>
+
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
-  <figure style="
-  flex: 1;
-  min-width: 280px;
-  height: 260px;            /* ⭐ 핵심 */
-  margin: 0;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-">
-    <img src="/assets/images/research/bonder/Image1.jpg" alt="Hybrid Bonding Simulation"
-     style="
-       width: 100%;
-       height: 100%;
-       object-fit: contain;   /* ⭐ 비율 유지 */
-       display: block;
-     ">
-
+  <figure style="flex: 1; min-width: 280px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/bonder/Image1.jpg"
+         alt="Hybrid Bonding Simulation"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
-  <figure style="flex: 1.4; min-width: 300px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/bonder/Image2.jpg" alt="Hybrid Bonding Mechanism" style="width: 100%; display: block;">
+
+  <figure style="flex: 1.4; min-width: 300px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/bonder/Image2.jpg"
+         alt="Hybrid Bonding Mechanism"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
 
@@ -50,64 +43,22 @@ classes: wide
   </li>
 </ul>
 
-<hr style="margin: 50px 0; border: 0; border-top: 1px solid #eee;">
+<hr style="margin: 50px 0; border-top: 1px solid #eee;">
 
-<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(2) Bridge-Die-Based Chiplet Packaging</h3>
+<h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(2) Bridge-Die-Based Chiplet Packaging</h3>
+
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
-  <figure style="flex: 2.0; min-width: 300px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/ucie/Image1-ucie.jpg" alt="Chiplet Simulation" style="width: 100%; display: block;">
+  <figure style="flex: 2.0; min-width: 300px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/ucie/Image1-ucie.jpg"
+         alt="Chiplet Simulation"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
-  <figure style="flex: 0.8; min-width: 150px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/ucie/animation-ucie.gif" alt="Chiplet Mechanism Animation" style="width: 100%; display: block;">
+
+  <figure style="flex: 0.8; min-width: 150px; height: 260px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/ucie/animation-ucie.gif"
+         alt="Chiplet Mechanism Animation"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
 
-<ul style="line-height: 1.8; padding-left: 20px;">
-  <li style="margin-bottom: 15px;"><b>Chiplet Interconnect Technology</b>
-    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>UCIe-based chiplet interface design and optimization (UCIe 기반 칩렛 인터페이스 최적화)</li>
-      <li>High-speed signal integrity in bridge-die structures (브릿지 다이 구조 내 신호 무결성 확보)</li>
-    </ul>
-  </li>
-  <li><b>Thermal & Mechanical Reliability</b>
-    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Warpage control in large-scale chiplet packages (대면적 칩렛 패키지 휨 제어 기술)</li>
-      <li>Thermal stress analysis of heterogeneous integration (이종 집적 구조의 열응력 분석)</li>
-    </ul>
-  </li>
-</ul>
-
-<div style="height: 60px;"></div>
-
-<h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 2. Thermal Management & Design Optimization</h2>
-<p style="margin-bottom: 30px; color: #555;">Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment and electronic modules.</p>
-
-<h3 style="border-bottom: none; margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(1) High-Performance Heat Exchanger & Cooling Module for Semiconductor Equipments</h3>
-
-<div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/thermal/Image1-thermal.jpg" alt="Laser Array Module" style="width: 100%; display: block;">
-  </figure>
-  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/thermal/Image2-thermal.jpg" alt="Thermal Simulation" style="width: 100%; display: block;">
-  </figure>
-  <figure style="flex: 1; min-width: 250px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/thermal/Image3-thermal.jpg" alt="Fluid Dynamics Simulation" style="width: 100%; display: block;">
-  </figure>
-</div>
-
-<ul style="line-height: 1.8; padding-left: 20px;">
-  <li style="margin-bottom: 15px;"><b>High Performance Heat Exchanger and Cooling Modules</b>
-    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Design optimization of fluidic channels for high-performance cooling modules (냉각수 유로 설계 최적화)</li>
-      <li>Implementing high-fidelity numerical models to characterize thermal behavior in cooling modules (3차원 유한요소해석 모델)</li>
-      <li>Experimental validation and performance characterization of advanced cooling modules (냉각 모듈 실험 및 성능 검증)</li>
-    </ul>
-  </li>
-  <li><b>System Prototyping and Hardware Integration</b>
-    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Prototyping and experimental validation of integrated laser diode array systems (모듈 및 장비 프로토타이핑)</li>
-      <li>Advanced fabrication of complex thermal structures using additive manufacturing (3D 프린팅 기술 기반 고성능 냉각 모듈 제작)</li>
-    </ul>
-  </li>
-</ul>
+<div style="heigh
