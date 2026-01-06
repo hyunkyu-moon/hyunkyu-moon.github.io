@@ -68,16 +68,16 @@ classes: wide
 
 <ul style="line-height: 1.8; padding-left: 20px;">
   <li style="margin-bottom: 15px;">
-    <b>Chiplet Interconnect Technology</b>
+    <b>Advanced Chiplet Integration & Process</b>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>UCIe-based chiplet interface design and optimization (UCIe 기반 칩렛 인터페이스 최적화)</li>
-      <li>High-speed signal integrity in bridge-die structures (브릿지 다이 구조 내 신호 무결성 확보)</li>
+      <li>Silicon bridge-die–based chiplet packaging process development (브릿지 다이 기반 첨단 칩렛 패키징)</li>
+      <li>Underfill process design and material–process interaction in bridge-die packages (언더필 공정 해석 모델 및 공정 개발)</li>
     </ul>
   </li>
-  <li><b>Thermal & Mechanical Reliability</b>
+  <li><b>Mechanical Reliability & Warpage Characterization</b>
     <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
-      <li>Warpage control in large-scale chiplet packages (대면적 칩렛 패키지 휨 제어 기술)</li>
-      <li>Thermal stress analysis of heterogeneous integration (이종 집적 구조의 열응력 분석)</li>
+      <li>Warpage prediction and control in bridge-die–based chiplet packages (첨단 패키지의 휨 예측 모델 개발)</li>
+      <li>Correlation of numerical warpage analysis with DIC-based experimental measurements (패키지 휨 계측 및 정합성 분석)</li>
     </ul>
   </li>
 </ul>
