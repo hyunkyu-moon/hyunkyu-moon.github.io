@@ -46,25 +46,23 @@ h3 { font-size: 1.3em !important; }
 
 
 /* 네비게이션 바(Masthead) 글자 크기 조정 */
-
-/* 1. 왼쪽 'Home' 또는 사이트 제목 부분 */
+/* 1. 왼쪽 사이트 타이틀 (Home 부분) */
 .site-title {
-  font-size: 1.5rem !important; /* 크기는 원하는 대로 숫자를 조절하세요 */
-  font-weight: bold;
+  font-size: 1.8rem !important; /* 크기를 더 키웠습니다 */
+  font-weight: bold !important;
 }
 
-/* 2. 오른쪽 메뉴들 (Research, Publications 등) */
-.masthead__menu-item {
-  font-size: 1.2rem !important; 
-  font-weight: 600; /* 글자를 조금 더 두껍게 */
+/* 2. 오른쪽 네비게이션 메뉴 (Research, Publications 등) */
+/* li 태그가 아니라 그 안의 링크(a)를 직접 조절해야 합니다. */
+.masthead__menu-item a {
+  font-size: 1.5rem !important; 
+  font-weight: 700 !important; /* 글자 두께를 더 두껍게 */
+  padding-left: 15px !important;  /* 글자가 커진 만큼 메뉴 사이 간격 확보 */
+  padding-right: 15px !important;
 }
 
-/* 3. 모바일 환경에서도 글자가 너무 커지지 않도록 조정 (선택 사항) */
-@media (max-width: 600px) {
-  .site-title {
-    font-size: 1.2rem !important;
-  }
-  .masthead__menu-item {
-    font-size: 1rem !important;
-  }
+/* 3. 마우스 올렸을 때 효과 (선택 사항) */
+.masthead__menu-item a:hover {
+  color: #333 !important;
+  text-decoration: underline;
 }
