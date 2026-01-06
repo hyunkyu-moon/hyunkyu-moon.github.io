@@ -42,16 +42,6 @@ classes: wide
   </ol>
 </div>
 
-
-제공해주신 최신 특허 목록을 바탕으로 Patents 섹션을 다시 구성했습니다.
-
-사용자님의 성함(Hyunkyu Moon)을 굵게 강조하고, 전문적인 랩 웹사이트 포맷(최신순 정렬, 저자-제목-번호-상태 순)을 적용했습니다. 특히 요청하신 대로 US 2025/0022713 A1 특허의 제목을 "Offset data correction..."으로 정확히 반영하였습니다.
-
-수정된 Patents 섹션 코드 (publications.md 하단)
-기존의 Patents 섹션 위치에 아래 코드를 덮어쓰시면 됩니다.
-
-HTML
-
 <div style="height: 50px;"></div>
 
 <h2 style="border-bottom: none; margin-bottom: 5px;">Patents</h2>
