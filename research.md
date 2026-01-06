@@ -61,6 +61,20 @@ classes: wide
   </figure>
 </div>
 
+<ul style="line-height: 1.8; padding-left: 20px;"> <li style="margin-bottom: 15px;">
+  <b>Chiplet Interconnect Technology</b> 
+  <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;"> 
+    <li>UCIe-based chiplet interface design and optimization (UCIe 기반 칩렛 인터페이스 최적화)</li> 
+    <li>High-speed signal integrity in bridge-die structures (브릿지 다이 구조 내 신호 무결성 확보)</li> 
+  </ul> </li> 
+  <li><b>Thermal & Mechanical Reliability</b> 
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;"> 
+      <li>Warpage control in large-scale chiplet packages (대면적 칩렛 패키지 휨 제어 기술)</li> 
+      <li>Thermal stress analysis of heterogeneous integration (이종 집적 구조의 열응력 분석)</li> 
+    </ul> </li> 
+</ul>
+
+
 <div style="height: 60px;"></div>
 
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 2. Thermal Management & Design Optimization</h2>
