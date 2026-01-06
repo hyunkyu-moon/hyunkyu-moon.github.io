@@ -48,18 +48,21 @@ classes: wide
 <h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">(2) Bridge-Die-Based Chiplet Packaging</h3>
 
 <div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- JPG (안에 2개처럼 보이는 한 장짜리 이미지) -->
   <figure style="flex: 0 0 auto; width: fit-content; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/Image1-ucie.jpg"
          alt="Chiplet Simulation"
          style="height: 260px; width: auto; max-width: 100%; display: block;">
   </figure>
 
+  <!-- GIF -->
   <figure style="flex: 0 0 auto; width: fit-content; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
     <img src="/assets/images/research/ucie/animation-ucie.gif"
          alt="Chiplet Mechanism Animation"
          style="height: 260px; width: auto; max-width: 100%; display: block;">
   </figure>
 </div>
+
 
 <ul style="line-height: 1.8; padding-left: 20px;">
   <li style="margin-bottom: 15px;">
