@@ -46,23 +46,29 @@ h3 { font-size: 1.3em !important; }
 
 
 /* 네비게이션 바(Masthead) 글자 크기 조정 */
-/* 1. 왼쪽 사이트 타이틀 (Home 부분) */
-.site-title {
-  font-size: 1.8rem !important; /* 크기를 더 키웠습니다 */
-  font-weight: bold !important;
+/* 1. 왼쪽 사이트 타이틀 (Home) 크기 */
+.masthead__inner .site-title {
+  font-size: 2.0rem !important; /* Hyunkyu Moon 타이틀과 비슷하게 크게 설정 */
+  font-weight: 800 !important;
 }
 
-/* 2. 오른쪽 네비게이션 메뉴 (Research, Publications 등) */
-/* li 태그가 아니라 그 안의 링크(a)를 직접 조절해야 합니다. */
-.masthead__menu-item a {
-  font-size: 1.5rem !important; 
-  font-weight: 700 !important; /* 글자 두께를 더 두껍게 */
-  padding-left: 15px !important;  /* 글자가 커진 만큼 메뉴 사이 간격 확보 */
-  padding-right: 15px !important;
+/* 2. 오른쪽 메뉴 (Research, Publications, Equipments, Posts) */
+/* 단순 클래스명이 아니라 전체 경로를 지정하여 우선순위를 높입니다. */
+.masthead__menu .masthead__menu-item a {
+  font-size: 1.6rem !important;  /* 글자 크기 대폭 확대 */
+  font-weight: 700 !important;  /* 글자 두께 강조 */
+  padding-left: 20px !important; /* 글자가 커진 만큼 좌우 간격 넓힘 */
+  padding-right: 20px !important;
 }
 
-/* 3. 마우스 올렸을 때 효과 (선택 사항) */
-.masthead__menu-item a:hover {
-  color: #333 !important;
-  text-decoration: underline;
+/* 3. 모바일 화면에서 메뉴가 겹치지 않게 크기 자동 조절 */
+@media (max-width: 1024px) {
+  .site-title {
+    font-size: 1.5rem !important;
+  }
+  .masthead__menu .masthead__menu-item a {
+    font-size: 1.2rem !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
 }
