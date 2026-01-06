@@ -43,3 +43,28 @@ h3 { font-size: 1.3em !important; }
 .research-image { width: 200px; flex-shrink: 0; }
 .research-image img { width: 100%; border-radius: 4px; }
 .research-content h3 { font-size: 18px !important; margin-top: 0; }
+
+
+/* 네비게이션 바(Masthead) 글자 크기 조정 */
+
+/* 1. 왼쪽 'Home' 또는 사이트 제목 부분 */
+.site-title {
+  font-size: 1.5rem !important; /* 크기는 원하는 대로 숫자를 조절하세요 */
+  font-weight: bold;
+}
+
+/* 2. 오른쪽 메뉴들 (Research, Publications 등) */
+.masthead__menu-item {
+  font-size: 1.2rem !important; 
+  font-weight: 600; /* 글자를 조금 더 두껍게 */
+}
+
+/* 3. 모바일 환경에서도 글자가 너무 커지지 않도록 조정 (선택 사항) */
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 1.2rem !important;
+  }
+  .masthead__menu-item {
+    font-size: 1rem !important;
+  }
+}
