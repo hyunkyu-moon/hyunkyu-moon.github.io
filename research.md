@@ -61,4 +61,33 @@ classes: wide
   </figure>
 </div>
 
-<div style="heigh
+<div style="height: 60px;"></div>
+
+<h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Focus 2. Thermal Management & Design Optimization</h2>
+<p style="margin-bottom: 30px; color: #555;">
+  Exploring innovative thermal design solutions to overcome the heat dissipation challenges of high-power semiconductor equipment and electronic modules.
+</p>
+
+<h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">
+  (1) High-Performance Heat Exchanger & Cooling Module for Semiconductor Equipments
+</h3>
+
+<div style="display: flex; gap: 20px; margin-bottom: 25px; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image1-thermal.jpg"
+         alt="Laser Array Module"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
+  </figure>
+
+  <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image2-thermal.jpg"
+         alt="Thermal Simulation"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
+  </figure>
+
+  <figure style="flex: 1; min-width: 250px; height: 240px; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image3-thermal.jpg"
+         alt="Fluid Dynamics Simulation"
+         style="width: 100%; height: 100%; object-fit: contain; display: block;">
+  </figure>
+</div>
