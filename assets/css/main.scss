@@ -79,3 +79,10 @@ h3 { font-size: 1.25rem !important; }
 
 /* 7. Research 페이지 관련 (필요 시 유지) */
 .research-container { display: flex; flex-direction: column; gap: 30px; }
+
+
+/* Home 글자 크기 무조건 바꾸기 (강제) */
+.masthead .site-title,
+.masthead .site-title a {
+  font-size: 40px !important;
+}
