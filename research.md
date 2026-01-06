@@ -91,3 +91,18 @@ classes: wide
          style="width: 100%; height: 100%; object-fit: contain; display: block;">
   </figure>
 </div>
+
+
+<ul style="line-height: 1.8; padding-left: 20px;"> 
+  <li style="margin-bottom: 15px;"><b>High Performance Heat Exchanger and Cooling Modules</b> 
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;"> 
+      <li>Design optimization of fluidic channels for high-performance cooling modules (냉각수 유로 설계 최적화)</li> 
+      <li>Implementing high-fidelity numerical models to characterize thermal behavior in cooling modules (3차원 유한요소해석 모델)</li> 
+      <li>Experimental validation and performance characterization of advanced cooling modules (냉각 모듈 실험 및 성능 검증)</li> 
+    </ul> </li> 
+  <li><b>System Prototyping and Hardware Integration</b> 
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;"> 
+      <li>Prototyping and experimental validation of integrated laser diode array systems (모듈 및 장비 프로토타이핑)</li> 
+      <li>Advanced fabrication of complex thermal structures using additive manufacturing (3D 프린팅 기술 기반 고성능 냉각 모듈 제작)</li> 
+    </ul> </li> 
+</ul>
