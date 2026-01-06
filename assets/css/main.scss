@@ -3,72 +3,79 @@
 
 @import "minimal-mistakes";
 
-/* [수정] 모든 태그에 배경색을 입히는 대신, 필요한 부분만 지정합니다 */
-html, body {
+/* 1. 기본 배경 및 폰트 설정 */
+html {
+  font-size: 16px; /* 기본 기준 크기 설정 */
+}
+
+body {
   background-color: #ffffff !important;
-  font-size: 16px !important;
+  color: #333;
 }
 
-/* 본문 글자 크기 강제 적용 (배경색은 여기서 뺍니다) */
-p, li, a {
-  font-size: 16px !important;
-}
-
-/* [핵심] 헤더(타이틀 영역)의 배경색이 하얗게 되는 것을 방지 */
-.page__hero, 
-.page__hero-overlay,
-.wrapper {
-  background-color: transparent !important;
-}
-
-/* 제목 크기 조정 */
-h1 { font-size: 2.0em !important; }
-h2 { font-size: 1.6em !important; }
-h3 { font-size: 1.3em !important; }
-
-/* 본문 및 사이드바 영역만 흰색 배경 유지 */
+/* 2. 본문 영역 흰색 배경 강제 적용 */
 #main, 
 .page, 
 .sidebar, 
-.page__content, 
-.page__footer, 
-.initial-content, 
-.page__inner-wrap {
+.page__footer {
   background-color: #ffffff !important;
 }
 
-/* Research Tab 스타일 (기존 유지) */
-.research-container { display: flex; flex-direction: column; gap: 30px; margin-top: 20px; }
-.research-item { display: flex; gap: 20px; border-bottom: 1px solid #f2f2f2; padding-bottom: 20px; }
-.research-image { width: 200px; flex-shrink: 0; }
-.research-image img { width: 100%; border-radius: 4px; }
-.research-content h3 { font-size: 18px !important; margin-top: 0; }
+/* 3. 헤더(Hero) 영역 투명화 (우주 사진이 잘 보이도록) */
+.page__hero, 
+.page__hero--overlay,
+.page__hero-image {
+  background-color: transparent !important;
+}
 
+/* 4. 네비게이션 바(Masthead) 통합 수정 */
+/* 왼쪽 Home과 오른쪽 Research, Publications 등의 크기를 통일합니다. */
 
-/* 네비게이션 바(Masthead) 글자 크기 조정 */
-/* 1. 왼쪽 사이트 타이틀 (Home) 크기 */
+/* 사이트 타이틀(Home)과 메뉴 아이템 공통 적용 */
+.masthead__inner .site-title,
+.masthead__menu-item a {
+  font-family: $sans-serif; /* 폰트 통일 */
+  text-decoration: none !important;
+}
+
+/* [Home] 글자 크기 조정 */
 .masthead__inner .site-title {
-  font-size: 1.6rem !important; /* Hyunkyu Moon 타이틀과 비슷하게 크게 설정 */
+  font-size: 1.25rem !important; /* 너무 크지 않게 조정 (약 20px) */
   font-weight: 800 !important;
+  color: #333 !important;
 }
 
-/* 2. 오른쪽 메뉴 (Research, Publications, Equipments, Posts) */
-/* 단순 클래스명이 아니라 전체 경로를 지정하여 우선순위를 높입니다. */
+/* [오른쪽 메뉴들] 글자 크기 조정 */
 .masthead__menu .masthead__menu-item a {
-  font-size: 1.4rem !important;  /* 글자 크기 대폭 확대 */
-  font-weight: 700 !important;  /* 글자 두께 강조 */
-  padding-left: 10px !important; /* 글자가 커진 만큼 좌우 간격 넓힘 */
-  padding-right: 10px !important;
+  font-size: 1.15rem !important; /* Home보다 아주 살짝 작게 하여 균형을 맞춤 */
+  font-weight: 600 !important;
+  color: #555 !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
 }
 
-/* 3. 모바일 화면에서 메뉴가 겹치지 않게 크기 자동 조절 */
+/* 마우스 올렸을 때 효과 */
+.masthead__menu-item a:hover {
+  color: #000 !important;
+  opacity: 0.7;
+}
+
+/* 5. 제목(Header) 크기 조정 */
+h1 { font-size: 1.8rem !important; margin-top: 1rem; }
+h2 { font-size: 1.5rem !important; border-bottom: 2px solid #333; padding-bottom: 10px; }
+h3 { font-size: 1.25rem !important; }
+
+/* 6. 모바일 대응 (화면이 작아질 때 글자 크기 축소) */
 @media (max-width: 1024px) {
   .site-title {
-    font-size: 1.5rem !important;
+    font-size: 1.1rem !important;
   }
   .masthead__menu .masthead__menu-item a {
-    font-size: 1.2rem !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    font-size: 0.95rem !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
   }
 }
+
+/* 7. Research 페이지 관련 (필요 시 유지) */
+.research-container { display: flex; flex-direction: column; gap: 30px; }
