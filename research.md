@@ -128,3 +128,41 @@ classes: wide
     </ul>
   </li>
 </ul>
+
+
+
+
+
+<hr style="margin: 50px 0; border-top: 1px solid #eee;">
+
+<h3 style="margin-top: 40px; margin-bottom: 15px; color: #2c3e50;">
+  (2) Next-Generation Thermal Systems via AI-Driven Design & Additive Manufacturing
+</h3>
+
+<!-- comment -->
+<div style="display:flex; gap:12px; margin-bottom:25px; flex-wrap:nowrap; align-items:flex-start;">
+  <figure style="flex:0 0 auto; width:fit-content; margin:0; border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/am-heat/Image1-am.jpg"
+         alt="AM-Heat-Exchanger-CAD"
+         style="height:210px; width:auto; display:block;">
+  </figure>
+
+  <figure style="flex:0 0 auto; width:fit-content; margin:0; border-radius:12px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/am-heat/Image2-am.jpg"
+         alt="Genetic-Algorithm-Results"
+         style="height:210px; width:auto; display:block;">
+  </figure>
+</div>
+
+
+
+<ul style="line-height: 1.8; padding-left: 20px;">
+  <li style="margin-bottom: 15px;">
+    <b>Intelligent Design Optimization and Additive Manufacturing Enabled Prototyping</b>
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
+      <li>Utilizing AI algorithms to explore vast design spaces for high-efficiency internal fin geometries (열교환기 내부 구조 최적화)</li>
+      <li>Fabrication of complex thermal structures using metal additive manufacturing technology (금속 3D 프린팅 기술 기반 모듈 제작)</li>
+      <li>Comprehensive performance assessment of 3D-printed heat exchangers (최적 설계 구조 성능 검증)</li>
+    </ul>
+  </li>
+</ul>
