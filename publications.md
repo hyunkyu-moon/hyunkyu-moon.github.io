@@ -9,7 +9,7 @@ classes: wide
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Journal Publications</h2>
 
 <div style="line-height: 1.8; color: #333;">
-  <ol style="padding-left: 20px;">
+  <ol reversed style="padding-left: 20px;">
     <li style="margin-bottom: 20px;">
       H. Jeong, S. Oh, <b>H. Moon</b>, S. Kim, S. Han, J. Y. Song, A. Y. Park, S. M. Jeon, C. W. Lee, and J. H. Lee*, "Compliant Die Attach Process for High-Conformity Integration of Ultra-Thin Chips on Curved Surfaces," <i>Advanced Materials Technologies</i>, 10 (2025), e00584. 
       [<a href="https://doi.org/10.1002/admt.202500584" target="_blank">Link</a>]
@@ -46,7 +46,7 @@ classes: wide
 <h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">Patents</h2>
 
 <div style="line-height: 1.8; color: #333;">
-  <ol style="padding-left: 20px;">
+  <ol reversed style="padding-left: 20px;">
     <li style="margin-bottom: 20px;">
       Joongsuk Oh, Jinuk Byun, Hoyoung Kim, <b>Hyunkyu Moon</b>, Kiho Bae, Boun Yoon, Hojoon Lee, and Seunghoon Choi, "Offset data correction method and semiconductor device manufacturing method including the same," <i>U.S. Patent Application No. US 2025/0022713 A1</i> (Published: Jan 16, 2025).
     </li>
