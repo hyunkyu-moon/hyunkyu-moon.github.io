@@ -101,7 +101,30 @@ classes: wide
   </figure>
 
   <figure style="flex: 0 0 auto; width: fit-content; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-    <img src="/assets/images/research/thermal/Imag리      <li>Integrated thermal solutions for high-power laser systems (각과li이
+    <img src="/assets/images/research/thermal/Image2-thermal.jpg"
+         alt="Thermal Simulation"
+         style="height: 240px; width: auto; max-width: 100%; display: block;">
+  </figure>
+
+  <figure style="flex: 0 0 auto; width: fit-content; margin: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img src="/assets/images/research/thermal/Image3-thermal.jpg"
+         alt="Fluid Dynamics Simulation"
+         style="height: 240px; width: auto; max-width: 100%; display: block;">
+  </figure>
+</div>
+
+<ul style="line-height: 1.8; padding-left: 20px;">
+  <li style="margin-bottom: 15px;"><b>High Performance Heat Exchanger and Cooling Modules</b>
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
+      <li>Design optimization of fluidic channels for high-performance cooling modules (냉각수 유로 설계 최적화)</li>
+      <li>Implementing high-fidelity numerical models to characterize thermal behavior in cooling modules (3차원 유한요소해석 모델)</li>
+      <li>Experimental validation and performance characterization of advanced cooling modules (냉각 모듈 실험 및 성능 검증)</li>
+    </ul>
+  </li>
+  <li><b>System Prototyping and Hardware Integration</b>
+    <ul style="list-style-type: disc; padding-left: 20px; margin-top: 5px; color: #666;">
+      <li>Prototyping and experimental validation of integrated laser diode array systems (모듈 및 장비 프로토타이핑)</li>
+      <li>Integrating thermal solutions for high-power laser systems (냉각과 레이저 모듈 어셈블리)</li>
     </ul>
   </li>
 </ul>
