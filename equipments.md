@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Equipments"
+permalink: /equipments/
 author_profile: true
 classes: wide
 ---
