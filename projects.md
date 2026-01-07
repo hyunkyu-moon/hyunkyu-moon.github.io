@@ -19,7 +19,6 @@ classes: wide
         - Period: 2025 – 2030
       </span>
     </li>
-
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Core Technologies of 3D Stack Bonder and Ultra-High Resolution Composite Inspection Equipment for Ultra-High Density Hybrid Bonding</b><br>
       <span style="color: #666; font-size: 0.95rem;">
@@ -27,7 +26,6 @@ classes: wide
         - Period: 2025 – 2028
       </span>
     </li>
-
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of fine pitch micro-bump bonding process and equipment with high-efficiency for high performance semiconductor package</b><br>
       <span style="color: #666; font-size: 0.95rem;">
@@ -35,7 +33,6 @@ classes: wide
         - Period: 2024 – 2038
       </span>
     </li>
-
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Tbps/mm-class Interface IP and Silicon Photonics Application Technology for AI and Automotive SoC Chiplet Interfaces</b><br>
       <span style="color: #666; font-size: 0.95rem;">
@@ -43,7 +40,6 @@ classes: wide
         - Period: 2023 – 2027
       </span>
     </li>
-
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Multi-Axis Assembly System for Curved Free-Form Electronics</b><br>
       <span style="color: #666; font-size: 0.95rem;">
