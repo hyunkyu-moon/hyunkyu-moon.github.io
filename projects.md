@@ -36,7 +36,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Tbps/mm-class Interface IP and Silicon Photonics Application Technology for AI and Automotive SoC Chiplet Interfaces (브릿지 다이 칩렛)</b><br>
       <span style="color: #666; font-size: 0.95rem;">
-- <b>Role: Principal Investigator</b><br>
+        - <b>Role: Principal Investigator (과제책임자)</b><br>
         - Budget: 1.0 Billion KRW<br>
         - Period: 2023 – 2027
       </span>
