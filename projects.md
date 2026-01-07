@@ -6,8 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-<h2 style="border-bottom: none; margin-bottom: 5px;">On-Going Projects</h2>
-<hr style="width: 10%; border: 1.5px solid #333; margin: 0 0 20px 0;">
+<h2 style="border-bottom: 2px solid #333; padding-bottom: 10px;">On-Going Projects</h2>
+
 
 <div style="line-height: 1.8; color: #333;">
   <ul style="padding-left: 20px; list-style-type: none;">
