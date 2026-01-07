@@ -14,7 +14,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Core Technologies for Advanced Chiplet Packaging Equipment (하이브리드 본더 개발)</b><br>
       <span style="color: #666; font-size: 0.95rem;">
-        - <b style="color: #2c5bb0;">Role: Lead Researcher (과제실무자)</b><br>
+        - <b style="color: #2c5bb0;">Role: Lead Researcher (실무책임자)</b><br>
         - Budget: 24 Billion KRW<br>
         - Period: 2025 – 2030
       </span>
