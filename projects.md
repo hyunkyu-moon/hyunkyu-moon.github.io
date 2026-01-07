@@ -61,6 +61,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #f9f9f9;">
       <b style="font-size: 1.1rem; color: #777;">Laser-Based Surface Micro-structuring for Maximizing Cooling Module Performance in Semiconductor Packaging Equipment (레이저 미세패터닝 기반 열교환기)</b><br>
       <span style="color: #888; font-size: 0.95rem;">
+        - <b>Role: Principal Investigator (과제책임자)</b><br>
         - Budget: 60 Million KRW<br>
         - Period: 2025
       </span>
@@ -68,6 +69,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #f9f9f9;">
       <b style="font-size: 1.1rem; color: #777;">Development of Mobile Anti-Reflection Coating Technology on Outdoor Solar Panels</b><br>
       <span style="color: #888; font-size: 0.95rem;">
+        - <b>Role: Principal Investigator (과제책임자)</b><br>
         - Budget: 150 Million KRW<br>
         - Period: 2024
       </span>
