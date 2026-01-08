@@ -91,7 +91,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #f9f9f9;">
       <b style="font-size: 1.1rem; color: #777;">Development of High Speed Bonder for Large Fan-Out Panel Level Package (패널레벨 패키징)</b><br>
       <span style="color: #888; font-size: 0.95rem;">
-        - Budget: 1.7 Billion KRW<br>
+        - Budget: 11 Billion KRW<br>
         - Period: 2021 – 2024
       </span>
     </li>
