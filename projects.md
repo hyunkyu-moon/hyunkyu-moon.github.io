@@ -44,7 +44,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of Multi-Axis Assembly System for Curved Free-Form Electronics (곡면전자 다축조립)</b><br>
       <span style="color: #666; font-size: 0.95rem;">
-        - Budget: 3.7 Billion KRW<br>
+        - Budget: 19 Billion KRW<br>
         - Period: 2022 – 2026
       </span>
     </li>
