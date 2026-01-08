@@ -77,7 +77,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #f9f9f9;">
       <b style="font-size: 1.1rem; color: #777;">Development of Commercialization Technology for Debonding Equipment for HBM Ultra-thin Wafer Handling (임시접합 및 디본딩)</b><br>
       <span style="color: #888; font-size: 0.95rem;">
-        - Budget: 800 Million KRW<br>
+        - Budget: 2.8 Billion KRW<br>
         - Period: 2022 – 2025
       </span>
     </li>
