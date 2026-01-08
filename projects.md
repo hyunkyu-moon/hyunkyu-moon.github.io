@@ -29,7 +29,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #eee;">
       <b style="font-size: 1.1rem;">Development of fine pitch micro-bump bonding process and equipment with high-efficiency for high performance semiconductor package (미세피치 범프 본딩 및 면광원)</b><br>
       <span style="color: #666; font-size: 0.95rem;">
-        - Budget: 9.7 Billion KRW<br>
+        - Budget: 10 Billion KRW<br>
         - Period: 2024 – 2038
       </span>
     </li>
