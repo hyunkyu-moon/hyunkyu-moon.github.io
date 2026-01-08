@@ -84,7 +84,7 @@ classes: wide
     <li style="margin-bottom: 25px; padding-left: 15px; border-left: 3px solid #f9f9f9;">
       <b style="font-size: 1.1rem; color: #777;">Development of substrate, electrode, and cover window materials for stretchable display (스트레처블 디스플레이)</b><br>
       <span style="color: #888; font-size: 0.95rem;">
-        - Budget: 1.0 Billion KRW<br>
+        - Budget: 7.1 Billion KRW<br>
         - Period: 2021 – 2025
       </span>
     </li>
